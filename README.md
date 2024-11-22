@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kenneth Ramirez <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Student, apprentice and passionate about the world of computing</h3>
 
-<!--
-**kennethRU/kennethRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I have knowledge in Computer Systems Networking and Telecommunications and I have CISCO certifications, I also have knowledge in sales of telecommunications and industrial Fluke products, I am specialized in the sale of Fluke networks brand products.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently pursuing a degree in systems engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **C++**
+
+- 📫 How to reach me: **kenneth0417@gmail.com**
+  
+- ⚡ What I like to do: **I like to play basketball, I am a car guy, I enjoy programming and learning different branches of systems engineering**
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.linkedin.com/in/kenneth-ram%C3%ADrez-ugalde-a5a605258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXH%2Fdw%2FnbQyW6UPUGzlnEeA%3D%3D))
+
+</div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+<a href="https://cplusplus.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+</a>
+  </a>
+<a href="https://www.cisco.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="40" height="40"/> 
+</a>
+
+
+</div>
+
+<h3 align="center">IDE:</h3>
+
+<span>
+<h3 align="center"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></h3>
+</span>
+
+</p>
+
+------
