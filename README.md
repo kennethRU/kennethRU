@@ -15,7 +15,7 @@
 <div align="center">
 
 <p align="center"> 
-  <a href="[https://www.w3.org/html/](https://www.linkedin.com/in/kenneth-ram%C3%ADrez-ugalde-a5a605258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXH%2Fdw%2FnbQyW6UPUGzlnEeA%3D%3D)" target="_blank"> 
+  <a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde-a5a605258/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
 
