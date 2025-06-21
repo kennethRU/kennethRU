@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenneth Ramirez <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Kenneth Ramirez 
 <h3 align="center">Student, apprentice and passionate about the world of computing</h3>
 
 - 💻 I have knowledge in Computer Systems Networking and Telecommunications and I have CISCO certifications, I also have knowledge in sales of telecommunications and industrial Fluke products, I am specialized in the sale of Fluke networks brand products.
