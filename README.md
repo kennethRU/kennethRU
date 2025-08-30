@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenneth Ramirez 
+<h1 align="center">Hi 👋, I'm Kenneth Ramirez</h1>
 <h3 align="center">Student, apprentice and passionate about the world of computing</h3>
 
 - 💻 I have knowledge in Computer Systems Networking and Telecommunications and I have CISCO certifications, I also have knowledge in sales of telecommunications and industrial Fluke products, I am specialized in the sale of Fluke networks brand products.
@@ -13,27 +13,27 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
-<p align="center"> 
   <a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde-a5a605258/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
-
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center"> 
-<a href="https://cplusplus.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-</a>
+  <a href="https://cplusplus.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
   </a>
-<a href="https://www.cisco.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="40" height="40"/> 
-</a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  </a>
+  <a href="https://www.java.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
+  </a>
+  <a href="https://www.cisco.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/> 
+  </a>
+</p>
 
-
-</div>
 
 <h3 align="center">IDE:</h3>
 
