@@ -34,13 +34,13 @@
   </a>
 </p>
 
-
-<h3 align="center">IDE:</h3>
-
-<span>
-<h3 align="center"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></h3>
-</span>
-
+<h3 align="center">IDEs:</h3>
+<p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> 
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/> 
+  </a>
 </p>
 
-------
