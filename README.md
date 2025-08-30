@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently pursuing a degree in systems engineering.
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** **Java** **Python**
 
 - 📫 How to reach me: **kenneth0417@gmail.com**
   
