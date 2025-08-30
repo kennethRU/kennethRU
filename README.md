@@ -39,6 +39,19 @@
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> 
   </a>
+  <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Community" width="50" height="50"/> 
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/> 
+  </a>
+</p>
+
+<h3 align="center">IDEs:</h3>
+<p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> 
+  </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/> 
   </a>
