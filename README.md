@@ -5,8 +5,6 @@
 
 - 🔭 I'm currently pursuing a degree in systems engineering.
 
-- 🌱 I’m currently learning **C++** **Java** **Python** **R** **SQL**
-
 - 📫 How to reach me: **kenneth0417@gmail.com**
   
 - ⚡ What I like to do: **I like to play basketball, I am a car guy, I enjoy programming and learning different branches of systems engineering**
