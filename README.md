@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenneth Ramirez</h1>
 <h3 align="center">Student, apprentice and passionate about the world of computing</h3>
 
-- 💻 I have knowledge in Computer Systems Networking and Telecommunications and I have CISCO certifications, I also have knowledge in sales of telecommunications and industrial Fluke products, I am specialized in the sale of Fluke networks brand products.
+- 💻 I have knowledge in Computer Systems Networking and Telecommunications, programming, data management, assistance to administrative and academic staff, management of internal software and I have CISCO certifications, I also have knowledge in sales of telecommunications and industrial Fluke products, I am specialized in the sale of Fluke networks brand products.
 
 - 🔭 I'm currently pursuing a degree in systems engineering.
 
