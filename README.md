@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently pursuing a degree in systems engineering.
 
-- 🌱 I’m currently learning **C++** **Java** **Python**
+- 🌱 I’m currently learning **C++** **Java** **Python** **R** **SQL**
 
 - 📫 How to reach me: **kenneth0417@gmail.com**
   
@@ -29,6 +29,12 @@
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
   </a>
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="50" height="50"/> 
+  </a>
   <a href="https://www.cisco.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/> 
   </a>
@@ -45,6 +51,7 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/> 
   </a>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="50" height="50"/> 
+  </a>
 </p>
-
-
