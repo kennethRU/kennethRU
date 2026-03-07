@@ -86,6 +86,8 @@
   <a href="https://www.virtualbox.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="50" height="50"/> 
   </a>
+  <a href="https://mac.getutm.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/UTM-000000?style=for-the-badge&logo=apple&logoColor=white" alt="UTM"/>
+  </a>
   <img src="https://img.shields.io/badge/Virtual%20Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Virtual Machines"/>
 </p>
-
