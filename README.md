@@ -31,14 +31,32 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/> 
+  </a>
+  <a href="https://www.oracle.com/database/technologies/xe-downloads.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle 21c XE" width="50" height="50"/> 
   </a>
   <a href="https://www.cisco.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/> 
   </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+  </a>
 </p>
 
-<h3 align="center">IDEs:</h3>
+<h3 align="center">IDEs & Database Tools:</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> 
@@ -52,4 +70,22 @@
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="50" height="50"/> 
   </a>
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL Developer" width="50" height="50"/> 
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank"> 
+    <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSMS"/> 
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank"> 
+    <img src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Studio"/> 
+  </a>
 </p>
+
+<h3 align="center">Virtualization:</h3>
+<p align="center">
+  <a href="https://www.virtualbox.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="50" height="50"/> 
+  </a>
+  <img src="https://img.shields.io/badge/Virtual%20Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Virtual Machines"/>
+</p>
+
