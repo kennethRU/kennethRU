@@ -42,6 +42,9 @@
   <a href="https://www.cisco.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/> 
   </a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"> 
+    <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
   </a>
@@ -78,6 +81,12 @@
   </a>
   <a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank"> 
     <img src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Studio"/> 
+  </a>
+  <a href="https://www.putty.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PuTTY-023f88?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY"/> 
+  </a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" alt="Wolfram Mathematica"/> 
   </a>
 </p>
 
