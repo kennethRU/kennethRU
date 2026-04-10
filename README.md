@@ -95,11 +95,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kennethRU&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kennethRU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethRU&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kennethRU&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
