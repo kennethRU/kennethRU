@@ -104,9 +104,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kennethRU&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kennethRU&show_icons=true&theme=tokyonight"
+    alt="Estadísticas de GitHub de Kenneth"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kennethRU&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethRU&layout=compact&theme=tokyonight"
+    alt="Lenguajes más usados por Kenneth"
+  />
 </p>
