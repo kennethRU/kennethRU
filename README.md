@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Kenneth Ramirez Ugalde</h1>
 <h3 align="center">Systems Engineering Student | Networking & Programming Enthusiast</h3>
 
@@ -22,9 +23,9 @@
 
 ### ⚡ Interests
 
-- 🏀 Basketball  
-- 🚗 Cars & automotive technology  
-- 💻 Programming  
+- 🏀 Basketball
+- 🚗 Cars & automotive technology
+- 💻 Programming
 - 🖥️ Learning different areas of **Systems Engineering**
 
 ---
@@ -105,14 +106,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kennethRU&show_icons=true&theme=tokyonight"
-    alt="Estadísticas de GitHub de Kenneth"
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+    height="180"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethRU&layout=compact&theme=tokyonight"
-    alt="Lenguajes más usados por Kenneth"
+    src="./profile/top-langs.svg"
+    alt="Most Used Programming Languages"
+    height="180"
   />
 </p>
