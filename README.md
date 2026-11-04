@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde/">
+  <a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde-a5a605258/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kenneth0417@gmail.com">
@@ -235,7 +235,7 @@ Outside of software development, I enjoy:
   <a href="mailto:kenneth0417@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde/">
+  <a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde-a5a605258/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
